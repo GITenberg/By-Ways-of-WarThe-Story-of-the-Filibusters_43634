@@ -1,0 +1,30 @@
+_repo: By-Ways-of-WarThe-Story-of-the-Filibusters_43634
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43634-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roche, James Jeffrey
+    alias: Roche, Jeffrey
+    birthdate: 1847
+    deathdate: 1908
+    gutenberg_agent_id: '42337'
+    url: http://www.gutenberg.org/2009/agents/42337
+description: ''
+gutenberg_issued: '2013-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43634'
+  lccn: 06023692
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Nicaragua -- History -- 19th century'
+- !lcc 'F1401'
+- !lcsh 'Walker, William, 1824-1860'
+- !lcsh 'Filibusters'
+title: 'By-Ways of War: The Story of the Filibusters'
+url: http://www.gutenberg.org/ebooks/43634
