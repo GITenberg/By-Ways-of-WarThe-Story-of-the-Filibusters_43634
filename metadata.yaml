@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42337'
     url: http://www.gutenberg.org/2009/agents/42337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43634#By-Ways-of-WarThe-Story-of-the-Filibusters
 gutenberg_issued: '2013-09-03'
 gutenberg_type: Text
 identifiers:
